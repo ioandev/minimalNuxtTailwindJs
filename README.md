@@ -1,6 +1,6 @@
-# ioandev
+# minimal nuxt tailwind js
 
-> Ioan&#39;s developer page
+> Easy to clone minimal nuxt tailwind repository
 
 ## Build Setup
 
